@@ -11,12 +11,12 @@
 - Movidius Neural Compute Stick       
 
 
-| Parts                          | Docs                                                      | Rem                              |
-|                           :---:| :---                                                      |:---                              |
-| dji Flame Whell ARF Kit (F450) | [[Features]][dji features]   [[Specs.]][dji specs]        ||
-| Raspberry Pi 3                 | [[Doc.]][RPI doc]            [[Mech. Drawings]][RPI mech] ||
-| EMILD NAVIO2                   | [[Doc.]][NAVIO2 doc]                                      | Anti-vibration mount (STL Files) |
-| PiCamera V2                    ||
+| Parts                          | Docs                                                       | Rem                              |
+|                           :---:| :---                                                       |:---                              |
+| dji Flame Whell ARF Kit (F450) | [[Features]][dji features]   [[Specs.]][dji specs]         ||
+| Raspberry Pi 3                 | [[Doc.]][RPI doc]            [[Mech. Drawing]][RPI mech]   ||
+| EMILD NAVIO2                   | [[Doc.]][NAVIO2 doc]                                       | Anti-vibration mount (STL Files) |
+| PiCamera V2                    | [[Doc.]][PiCam doc]          [[Mech. Drawing]][PiCam mech] ||  
 | Movidius Neural Compute Stick  ||
 
 
@@ -26,3 +26,5 @@
 [RPI doc]:       https://www.raspberrypi.org/documentation/hardware/raspberrypi/                      "https://www.raspberrypi.org/documentation/hardware/raspberrypi/"
 [RPI mech]:      https://www.raspberrypi.org/documentation/hardware/raspberrypi/mechanical/README.md  "https://www.raspberrypi.org/documentation/hardware/raspberrypi/mechanical/README.md"
 [NAVIO2 doc]:    https://docs.emlid.com/navio2/                                                       "https://docs.emlid.com/navio2/"
+[PiCam doc]:     https://www.raspberrypi.org/documentation/hardware/camera/README.md                  "https://www.raspberrypi.org/documentation/hardware/camera/README.md"
+[PiCam mech]:    https://www.raspberrypi.org/documentation/hardware/camera/mechanical/rpi_MECH_Camera2_2p1.pdf "Mechanical Drawing Camera Module V2"
